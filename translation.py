@@ -18,7 +18,7 @@ Send me a link or post and I'll shorten it for you!
 To learn more about what I can do, just type /help.
 
 Method: {}
-Shortener website: {}
+Shortener website: 
 """
 
 HELP_MESSAGE = """Hey there! My name is {firstname} and I'm a link convertor and shortener bot here to make your work easier and help you earn more 💰.
